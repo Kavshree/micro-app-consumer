@@ -27,7 +27,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": ["node_modules/micro-header-test1/micro-header.js"]
           },
           "configurations": {
             "production": {
